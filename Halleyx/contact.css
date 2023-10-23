@@ -1,0 +1,22 @@
+*{
+    margin: 0;
+}
+body{
+    padding: 50px;
+
+}
+input[type=reset]{
+    border-color: lightseagreen;
+    border-width: 2px;
+    border-style: solid;
+    text-align: center;
+    width: 80px;
+    margin-top: 20px;
+}
+input[type=submit]{
+    background-color: lightseagreen;
+    color: white;
+    width: 80px;
+    margin-top: 20px;
+}
+
